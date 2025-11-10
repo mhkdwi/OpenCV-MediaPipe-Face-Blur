@@ -5,7 +5,7 @@ Perfect for anonymizing faces or protecting privacy in photos and videos.
 
 ---
 
-## 📸 Demo
+## Demo
 
 > The program detects human faces and automatically applies a blur to hide them.  
 > It works with single images, video files, or your webcam in real-time.
